@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882430223641",
+    "project_id": "firebolt-s-notes",
+    "storage_bucket": "firebolt-s-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882430223641:android:6b1da3e5b64941ed341188",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACkwp5Eyxu5YVXryZWVqd92X50zIlb8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882430223641:android:40ddf973dc707419341188",
+        "android_client_info": {
+          "package_name": "con.andriod.fireboltnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACkwp5Eyxu5YVXryZWVqd92X50zIlb8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
